@@ -25,3 +25,12 @@ Problem converged
 Simulation Simulation:1 finished: 11/18/2016, 12:33:01 PM
 Total time 0:00:14
 
+Simulation Simulation:1 started: 11/18/2016, 11:41:16 PM
+Number of configurations: 1
+Default mesh: 17459 elements, 30917 nodes
+Solution time 5.2s
+Convergence rate: 2.95%
+Problem converged 
+Simulation Simulation:1 finished: 11/18/2016, 11:41:32 PM
+Total time 0:00:16
+
