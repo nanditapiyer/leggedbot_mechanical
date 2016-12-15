@@ -52,3 +52,12 @@ Problem converged
 Simulation static_idle finished: 12/15/2016, 4:49:22 AM
 Total time 0:00:09
 
+Simulation static_idle started: 12/15/2016, 5:14:52 AM
+Number of configurations: 1
+Default mesh: 7661 elements, 14127 nodes
+Solution time 2.1s
+Convergence rate: 4.25%
+Problem converged 
+Simulation static_idle finished: 12/15/2016, 5:14:58 AM
+Total time 0:00:06
+
